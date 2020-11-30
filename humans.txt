@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jaroslav Grejtak    jari.grejtak@gmail.com
 
 # THANKS
 
