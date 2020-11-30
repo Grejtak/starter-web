@@ -8,6 +8,9 @@ This is example to show different parts of the Git repository and various comman
 
 ## Purpose
 
+faerfbh ajkhdbawjehdanwklmc njcfnedh ja
+
 ## Deployment
+awfencbfgch fnqwjeuafbh nakljwecds
 
 ## How to contribute
