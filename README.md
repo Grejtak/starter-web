@@ -14,3 +14,7 @@ faerfbh ajkhdbawjehdanwklmc njcfnedh ja
 awfencbfgch fnqwjeuafbh nakljwecds
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training
